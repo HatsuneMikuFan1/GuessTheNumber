@@ -1,4 +1,4 @@
-import time, random
+from github import time, random
 continued = 'no'
 print("guess the number")
 guess = input("what do you think the number is between 1 15? ")
